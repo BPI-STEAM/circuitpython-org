@@ -20,7 +20,7 @@ features:
 
 The BPI-Leaf-S3 is a basic development board equipped ESP32-S3R2 chip , provides Wi-Fi and Bluetooth LE functions via PCB antenna.
 
-## Components
+**Features:**
 
 - **ESP32-S3R2**: Xtensa® dual-core 32-bit LX7 microprocessor,
 up to 240 MHz; 2.4G Wi-Fi + Bluetooth LE; RISC-V Ultra Low Power Co-processor; **2 MB Quad SPI PSRAM** is integrated in the package, so don't worry too much about using massive buffers, it's basically sufficient.
@@ -37,3 +37,7 @@ up to 240 MHz; 2.4G Wi-Fi + Bluetooth LE; RISC-V Ultra Low Power Co-processor; *
 - **RGB LED**: Addressable RGB LED, driven by GPIO48.
 - **Power LED**: Steady on when power is supplied.
 - **Charging LED**: Always off when only the battery is powered, slightly on when only the USB 5V is powered, and always on when the battery is charging.
+
+## Purchase
+
+[Aliexpress shop](https://www.aliexpress.com/item/1005004428945296.html?spm=5261.ProductManageOnline.0.0.48af4edfYbyEoI)
